@@ -60,13 +60,13 @@ export default function HomePage() {
             </div>
           </div>
           <div className="relative h-[300px] md:h-[400px] rounded-lg overflow-hidden">
-            <Image
-              src="/placeholder.svg?height=400&width=600"
+            {/* <Image
+              src="../public/assets/LOGO_Fisioterapia.jpg"
               alt="Physiotherapist helping a patient"
               fill
               className="object-cover"
               priority
-            />
+            /> */}
           </div>
         </div>
       </section>

@@ -1,6 +1,6 @@
 import { Poppins } from "next/font/google";
 import { Metadata } from "next";
-import "../styles/globals.css";
+import "@/styles/globals.css";
 // import "maplibre-gl/dist/maplibre-gl.css";
 import { ReactNode } from "react";
 import Providers from "../utils/providers";

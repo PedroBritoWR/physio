@@ -32,7 +32,7 @@ export default function RecueperarSenhaPage() {
           </CardContent>
           <CardFooter className="flex flex-col space-y-4">
             <Button className="w-full bg-teal-600 hover:bg-teal-700">Enviar</Button>
-            <Link href="/" className="flex items-center justify-center text-sm text-teal-600 hover:text-teal-700">
+            <Link href="/auth/login" className="flex items-center justify-center text-sm text-teal-600 hover:text-teal-700">
               <ArrowLeft className="mr-2 h-4 w-4" />
               Voltar para o login
             </Link>
